@@ -116,7 +116,7 @@ ul {
 
 /* Hero-section */
 .hero-section {  
-  background: linear-gradient(#2F303A66, #2F303A66), url('../images/backgrounds/hero-section-bg.jpg');
+  background: linear-gradient(#2F303A66, #2F303A66), url('./images/backgrounds/hero-section-bg.jpg');
   /* url('/images/backgrounds/hero-section-bg.jpg'); */
   padding: 200px 452px;
   text-align: center;
